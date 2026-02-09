@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "十六夜セレーネ",
+  "base_artist": "Edel Note",
+  "createdAt": "2026-02-09T18:46:44.543518Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "十六夜セレーネ",
+      "artist": "Edel Note",
+      "has_synced": false,
+      "path": "select/pl_01_十六夜セレーネ_Edel_Note.txt"
+    }
+  ]
+}
